@@ -250,6 +250,13 @@
     <string name="cycle_down_summary">Cycles to wait after the last hotplug event to unplug another core.</string>
     <string name="cycle_up">Cycle Up</string>
     <string name="cycle_up_summary">Cycles to wait after the last hotplug event to plug another core.</string>
+    <string name="msm_sleeper">MSM Sleeper</string>
+    <string name="msm_sleeper_summary">An in-kernel replacement for Qualcomm\'s MPDecision. Developed by flar2.</string>
+    <string name="max_online">Max Online</string>
+    <string name="down_count">Down Count</string>
+    <string name="up_count">Up Count</string>
+    <string name="up_count_max">Up Count Max</string>
+    <string name="down_count_max">Down Count Max</string>
 
     <!-- Thermal -->
     <string name="thermal_info">Use only one thermal driver from the following options, using more at the same time may cause unexpected behavior.</string>
